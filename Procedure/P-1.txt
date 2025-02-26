@@ -1,0 +1,11 @@
+Customer Churn Prediction using custom dataset (Procedure - 1)
+
+> Identify customers likely to stop using a service.
+> Implement retention strategies.
+> Use Bayesian Classification / CNN / Decision Trees / Deep Learning 
+> Raw Dataset - Classification 
+> Binary Dataset - cause and effect decision tree 
+> Clustering - remove the class labels 
+
+( Raw Dataset (telecom_customer_churn_dataset.csv) – For classification.
+Binary Dataset (telecom_customer_churn_dataset_binary.csv) – For cause-and-effect decision tree analysis )

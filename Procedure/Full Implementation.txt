@@ -1,0 +1,18 @@
+1. Exploratory Data Analysis (EDA) - Checking missing values, encoding categorical data, and visualizing key trends.
+2. Classification Models:
+   - Naive Bayes Classification
+   - Decision Trees
+   - Convolutional Neural Network (CNN)
+3. Binary Dataset Analysis - Cause-and-Effect Decision Tree.
+4. Clustering - Segments customers into groups after removing class labels.
+
+Datasets:
+- telecom_customer_churn_dataset.csv - Used for classification.
+- telecom_customer_churn_dataset_binary.csv - Used for binary decision tree analysis.
+
+Dependencies:
+
+- pandas, numpy : For data handling
+- seaborn, matplotlib : For data visualization
+- scikit-learn : For machine learning models (Naive Bayes, Decision Trees, Clustering)
+- tensorflow : For CNN 

@@ -1,0 +1,52 @@
+Customer Demographics
+
+Customer ID: Unique identifier for each customer.
+Gender: Male, Female, or Non-binary.
+Age: Age of the customer.
+Income Level: Customer's income bracket.
+Region: Geographical location of the customer.
+
+Account Information
+Contract Type: Month-to-month, One-year, Two-year contracts.
+Tenure: Number of months the customer has been with the company.
+Account Type: Prepaid or Postpaid.
+Billing Method: Paperless billing or mailed bills.
+Payment Method: Credit card, Bank transfer, Cash, etc.
+Monthly Charges: Average monthly bill amount.
+Total Charges: Total charges incurred over the tenure.
+
+Service Usage
+Call Usage: Minutes or hours of call usage.
+Internet Service: Type of internet service (DSL, Fiber optic, None).
+Data Usage: Amount of data consumed (in GB).
+Streaming Services: Subscription to services like Streaming TV and Streaming Movies.
+Value-Added Services: Usage of features like international calling, voicemail, etc.
+Device Protection Plan: Whether the customer has opted for device insurance or not.
+
+Customer Support Interaction
+Number of Complaints: Number of complaints registered.
+Response Time: Average time taken to resolve issues.
+Customer Support Calls: Number of times the customer has contacted support.
+Satisfaction Score: Customer satisfaction level from surveys.
+
+Churn Indicators
+Promotions Opt-In: Whether the customer avails promotions or discounts.
+Service Downgrades: Number of downgrades from higher-tier services.
+Contract Changes: Recent changes in contract type or terms.
+Churn Label: Whether the customer has churned (Yes/No) – for supervised learning.
+
+Behavioral Metrics
+Onboarding Experience: Rating or feedback on onboarding.
+Login Frequency: Frequency of logging into the online portal.
+App Engagement: Usage of mobile app features.
+Competitor Inquiry: Whether the customer has inquired about competitors (if tracked).
+
+Additional Features 
+Loyalty Programs: Membership in loyalty or rewards programs.
+Referral Activity: Whether the customer has referred others.
+Discount Availment: Frequency of using discounts or coupons.
+Service Changes: History of service upgrades or downgrades.
+Considerations:
+Feature Engineering: Aggregate or transform raw data into meaningful metrics (e.g., average monthly usage, rate of complaints per month).
+Data Privacy: Ensure compliance with data privacy regulations when collecting sensitive information.
+Balanced Dataset: Handle class imbalance by including sufficient churn cases for analysis.

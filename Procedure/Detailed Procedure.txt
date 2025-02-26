@@ -1,0 +1,20 @@
+Detailed Procedure
+
+Exploratory Data Analysis (EDA)
+
+Check for missing values and data distributions.
+Identify important features.
+Visualize key trends.
+Classification Models:
+
+Bayesian Classification
+Convolutional Neural Network (CNN)
+Decision Trees
+Deep Learning
+Binary Dataset Analysis:
+
+Build a Cause-and-Effect Decision Tree.
+Clustering:
+
+Remove class labels and apply clustering to segment customers.
+Identify high-risk churn groups.
